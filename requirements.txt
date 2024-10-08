@@ -1,0 +1,7 @@
+h5py==3.11.0
+matplotlib==3.9.2
+numpy  # Remove strict version, let pip decide
+pandas==2.2.3
+scikit-learn==1.5.2
+scipy==1.10.0  # Compatible with newer numpy versions
+torch==2.0.1
